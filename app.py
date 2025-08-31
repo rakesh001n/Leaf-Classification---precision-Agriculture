@@ -37,6 +37,8 @@ st.write("Upload a leaf image and let the trained model predict its species!")
 
 uploaded_file = st.file_uploader("Choose an image...", type=["jpg", "jpeg", "png"])
 
+
+
 if uploaded_file is not None:
     # Show uploaded image
     st.image(uploaded_file, caption="Uploaded Leaf Image", use_container_width=True)
@@ -59,3 +61,21 @@ if uploaded_file is not None:
 
     # Final message
     st.success("✅ Analysis complete!")
+
+st.markdown("---")
+st.markdown(
+    """
+    <div style='text-align: center; color: gray; font-size: 14px;'>
+        🌱 Powered by TensorFlow | Made with ❤️ by Rakesh, Nishanth, Josika <br>
+        <a href="https://github.com/rakesh001n/Leaf-Classification---precision-Agriculture" target="_blank">
+            📂 View Source Code on GitHub
+        </a>
+        <br>
+        <a href="https://www.kaggle.com/code/rockybhai001n/leaf-classification-precision-agriculture/notebook" target="_black">
+        📒 Kaggle Notebook
+        </a>
+    </div>
+    """,
+    unsafe_allow_html=True
+)
+
