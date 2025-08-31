@@ -73,6 +73,11 @@ This dataset is primarily used for:
 - Expand dataset for better generalization  
 
 ---
+## 👨‍💻 Developed By
+- Rakesh [LinkedIn](https://www.linkedin.com/in/rakesh-sd/)
+- Nishanth [LinkedIn](https://www.linkedin.com/in/nishanth-krishnamoorthy24/)
+- Josika [LinkedIn](https://www.linkedin.com/in/josika-ponnusamy-a71b86294/)
+---
 
 ## 📜 License
 This project is licensed under the **MIT License**.  
