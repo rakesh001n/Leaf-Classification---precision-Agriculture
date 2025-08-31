@@ -5,8 +5,8 @@ It predicts the species of a plant based on an uploaded leaf image.
 
 The model is trained on the [Leaf Images Dataset](https://huggingface.co/datasets/yusuf802/leaf-images) from Hugging Face.  
 This dataset contains labeled images of plant leaves, useful for **plant disease detection, crop monitoring, and precision agriculture applications**.  
+The StreamLit webpafe is live at [Leaf Species Classification](https://leaf-classification.streamlit.app/)
 
-The StreamLit webpafe is live @ [Leaf Species Classification](https://leaf-classification.streamlit.app/)
 ---
 
 ## 🚀 Features
