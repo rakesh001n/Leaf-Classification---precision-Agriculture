@@ -64,7 +64,7 @@ This dataset is primarily used for:
 ## 🔗 Links
 - 📂 Dataset: [yusuf802/leaf-images](https://huggingface.co/datasets/yusuf802/leaf-images)  
 - 💻 GitHub Repo: [Leaf Classification - Precision Agriculture](https://github.com/rakesh001n/Leaf-Classification---precision-Agriculture)  
-
+- 📒 Kaggle Notebook: [leaf classification-precision agriculture](https://www.kaggle.com/code/rockybhai001n/leaf-classification-precision-agriculture/)
 ---
 
 ## ✨ Future Improvements
