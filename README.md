@@ -8,7 +8,6 @@ This dataset contains labeled images of plant leaves, useful for **plant disease
 The StreamLit webpage is live at [Leaf Species Classification](https://leaf-classification.streamlit.app/)
 
 ---
-
 ## 🚀 Features
 - Upload a leaf image through a **Streamlit Web App**  
 - Pre-trained CNN model (**MobileNetV2**) for classification  
