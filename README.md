@@ -58,7 +58,6 @@ This dataset is primarily used for:
   Predicted Class: Tomato
   Confidence: 92.5%
   ```
-
 ---
 
 ## 🔗 Links
